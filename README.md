@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Emma (@emmaharris9343) 👋
 
-<!--
-**emmaharris9343/emmaharris9343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software dev based in Dublin. Most of my time goes into open-source backend tooling, container plumbing, and writing small command-line utilities.
 
-Here are some ideas to get you started:
+#### What I'm working on:
+- 🔨 Writing Go services and Python automation scripts.
+- 📦 Packaging tools with Docker and streamlining local dev setups.
+- 📖 Digging deeper into networking and Linux internals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox:
+- **Languages:** Python, Go, JavaScript / TypeScript
+- **DevOps & Infra:** Docker, Linux, Git, PostgreSQL
+- **Editor:** Neovim (always refactoring my `init.lua`)
+
+#### Connect:
+- Email: `emma.harris.dev@proton.me`
+- Feel free to ping me on open issues or PRs here on GitHub!
